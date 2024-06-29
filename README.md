@@ -1,5 +1,4 @@
 # 4-Digit-Counter-on-7-segment-Display
-Using a 7 segment display to show button presses
 
 This project implements a simple four-digit counter on a 7-segment display using VHDL. The counter increments by pressing a button. The target hardware is the Basys 3 FPGA board (Artix-7, Xilinx).
 
